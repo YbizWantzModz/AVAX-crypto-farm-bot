@@ -1,4 +1,4 @@
 @echo off
-title Chainlink AutoFarmer
+title AVAX AutoFarmer
 python src/main.py
 pause

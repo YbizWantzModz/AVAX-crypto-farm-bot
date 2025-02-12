@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "Starting Chainlink AutoFarmer..."
+echo "Starting AVAX AutoFarmer..."
 python3 src/main.py
